@@ -23,6 +23,7 @@ Inside Redis cli, subscripe to NEWS_XML channel
 SUBSCRIBE NEWS_XML
 ```
 ## Execute XmlRedis project
+In a different terminal run the ruby application.  
 ```shell
 ruby lib/xml-redis.rb
 ```
