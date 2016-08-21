@@ -24,7 +24,6 @@ SUBSCRIBE NEWS_XML
 ```
 ## Execute XmlRedis project
 ```shell
-cd lib
 ruby lib/xml-redis.rb
 ```
 
